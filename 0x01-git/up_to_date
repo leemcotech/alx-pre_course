@@ -1,0 +1,8 @@
+git command line use for README.md
+in order to make an update to latest changes to the main branch, i follow the steps below
+1. i make sure I am on the main branch: git checkout main
+2. Pull the latest changes from the remote main branch using git pull origin main
+3. Opened my README.md file in a text editor and made necessary updates
+4. Saved the changes: git add README.md
+6. Push the changes to the remote repository: git push origin main
+These steps helped me keep my README.md file up-to-date with the latest changes in the main branch.
